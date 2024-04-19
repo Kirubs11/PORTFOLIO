@@ -13,6 +13,7 @@ body {
   /* background-color: #E7D3CC; */
   /* background-color: #B0B8DB; */
   background-color: #a5a58d;
+  /* background-color: #6b705c; */
   /* background-color: #9a8c98 ; */
 
 }
@@ -333,7 +334,7 @@ section {
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(75, 73, 73);
   text-align: center;
 }
 
@@ -396,7 +397,7 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
+  border-color:rgb(75, 73, 73);
   background: rgb(250, 250, 250);
 }
 
@@ -413,7 +414,7 @@ article .icon {
 
 .project-btn {
   color: black;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(75, 74, 74);
 }
 
 
@@ -430,7 +431,7 @@ article .icon {
   justify-content: center;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(75, 73, 73);
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;

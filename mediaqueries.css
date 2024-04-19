@@ -10,7 +10,7 @@
   #projects {
     height: fit-content;
   }
-  
+
 }
 
 @media screen and (max-width: 1200px) {
@@ -21,13 +21,12 @@
   #hamburger-nav {
     display: flex;
     /* top:3px; */
-    height: 7vh;
-    background-color: rgb(255, 255, 255);
+    height: 8vh;
+    background-color: rgb(255, 255, 255, 0.3);
     border-top-left-radius:10px ;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
-
   }
   #experience,
   .experience-details-container {
@@ -57,13 +56,13 @@
     margin-top: 0;
   }
   #about{
-    padding-top: 17vh;
+    padding-top: 13.5vh;
   }
   #experience{
-    padding-top: 15vh;
+    padding-top: 12vh;
   }
   #projects{
-    padding-top: 15vh;
+    padding-top: 12vh;
   }
   #profile{
     padding-top: 17vh;

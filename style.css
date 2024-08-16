@@ -13,6 +13,7 @@ body {
   /* background-color: #E7D3CC; */
   /* background-color: #B0B8DB; */
   background-color: #a5a58d;
+  /* background-color: #354f52; */
   /* background-color: #6b705c; */
   /* background-color: #9a8c98 ; */
 
@@ -94,7 +95,7 @@ a:hover{
 }
 
 .logo:hover {
-  cursor: default;
+  cursor:pointer;
 }
 
 
@@ -362,7 +363,9 @@ section {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 5rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+
 }
 
 .experience-details-container {
@@ -376,7 +379,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 6rem;
+  gap: 4rem;
   justify-content: space-around;
 }
 
@@ -385,6 +388,7 @@ article {
   width: 15rem;
   justify-content: space-around;
   gap: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 article .icon {
